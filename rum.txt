@@ -1,2 +1,4 @@
-ajmath:wq
+a:wq
+:wq
+jmath:wq
 
